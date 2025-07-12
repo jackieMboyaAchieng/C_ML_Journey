@@ -1,0 +1,13 @@
+# Compiled executables
+*.o
+*.out
+hello_world
+basic_structure
+variables_io
+putchar
+scanf
+# Other common build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
