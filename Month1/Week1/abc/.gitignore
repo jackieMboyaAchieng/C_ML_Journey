@@ -6,6 +6,7 @@ basic_structure
 variables_io
 putchar
 scanf
+grade_calculator
 # Other common build artifacts
 *.exe
 *.dll
